@@ -23,6 +23,7 @@ This project builds and compares two classification models to predict customer c
 |       Model         | ROC-AUC | Precision (Churn) | Recall (Churn) | F1 (Churn) |
 
 | Logistic Regression | 0.836   | 0.65              | 0.58           | 0.61       |
+
 | Random Forest       | 0.819   | 0.63              | 0.50           | 0.56       |
 
 **Logistic Regression outperformed Random Forest** on this dataset — both in ROC-AUC and in recall (catching actual churners), while also being simpler and more interpretable. This suggests churn in this dataset is driven by fairly linear relationships (e.g., tenure, charges, contract type) that Logistic Regression captures well.
