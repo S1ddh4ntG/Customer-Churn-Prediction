@@ -21,6 +21,7 @@ This project builds and compares two classification models to predict customer c
 ## Results
 
 |       Model         | ROC-AUC | Precision (Churn) | Recall (Churn) | F1 (Churn) |
+
 | Logistic Regression | 0.836   | 0.65              | 0.58           | 0.61       |
 | Random Forest       | 0.819   | 0.63              | 0.50           | 0.56       |
 
