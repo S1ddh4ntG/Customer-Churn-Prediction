@@ -47,4 +47,4 @@ This project builds and compares two classification models to predict customer c
 Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 
 ## Notebook
-Full analysis, code, and visualizations: [`customer-churn-prediction.ipynb`](./customer-churn-prediction.ipynb.ipynb)
+Full analysis, code, and visualizations: [`customer-churn-prediction.ipynb`](./customer-churn-prediction.ipynb)
